@@ -1,2 +1,2 @@
-# How-to-pass-CS3
-This a step-by-step guide on how to pass CS3 efficiently.
+# Study Tips for CS3 Object-Oriented Programming 1
+This a step-by-step guide on study CS3 efficiently.
